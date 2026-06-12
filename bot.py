@@ -5,7 +5,7 @@ import asyncio
 
 # --- CONFIGURAÇÕES ---
 GROQ_API_KEY = "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"
-DISCORD_TOKEN = "MTUwOTU5MjAyNDI1OTc1NjA4NA.GQurKt.l46fNdmQdwnxoj6S5qHkwfGglwZVaPX9Bv2C1Q"
+DISCORD_TOKEN = "MTUwOTU5MjAyNDI1OTc1NjA4NA.GzrUkl.D9yFxlw1IUbxvz4e42ueoEiYWlKa8hw1xMlhPA"
 
 client_groq = Groq(api_key=GROQ_API_KEY)
 intents = discord.Intents.all()
